@@ -21,4 +21,16 @@
   <a href="https://alura.com.br/" target="_blank"><img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo"></a>
 
 </body>
+
+<script>
+    const lista = document.querySelector("ul");
+document.querySelector("#botao").addEventListener("click", () => {
+  lista.setAttribute("data-lista", "mostrar");
+});
+
+document.querySelector(".close").addEventListener("click", () => {
+  lista.setAttribute("data-lista", "esconder");
+});
+</script>
+
 </html>
