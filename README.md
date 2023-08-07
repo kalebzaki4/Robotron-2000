@@ -1,10 +1,10 @@
 # Robotron-2000 🤖🕹️
 
-Este repositório contém o projeto Robotron-2000, criado e desenvolvido por mim como parte dos meus estudos de JavaScript básico.
+Bem-vindo ao repositório do projeto Robotron-2000!
 
 ## Sobre o Projeto 📜
 
-O Robotron-2000 é um projeto que visa aprimorar minhas habilidades em JavaScript por meio de um jogo simples. O objetivo é criar um clone do clássico jogo Robotron, onde o jogador controla um personagem e deve sobreviver a hordas de inimigos.
+O Robotron-2000 é um projeto criado e desenvolvido por Kalebzaki4 como parte dos estudos de JavaScript básico. A ideia por trás do projeto é aprimorar habilidades nessa linguagem por meio da criação de um jogo simples. O objetivo principal é criar um clone do clássico jogo Robotron, onde o jogador controla um personagem e deve sobreviver a hordas de inimigos.
 
 ## Funcionalidades 🕹️
 
@@ -33,11 +33,14 @@ Contribuições são bem-vindas! Se você quiser colaborar com o projeto, siga a
 
 ## Licença 📜
 
-Este projeto está licenciado sob a [MIT License](LICENSE). Sinta-se à vontade para usá-lo e modificar de acordo com suas necessidades.
+Este projeto está licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade para usá-lo e modificá-lo de acordo com suas necessidades.
 
-## Contato 📞
+## Autor 👤
 
-Se tiver alguma dúvida ou sugestão sobre o projeto, sinta-se à vontade para entrar em contato comigo por meio dos seguintes canais:
+Este projeto foi criado por Kalebzaki4.
 
-- Email: seuemail@example.com
-- Twitter: [@seuusuario](https://twitter.com/seuusuario) 🐦📧
+- Email: kalebzsantosk@gmail.com 📧
+
+Se tiver alguma dúvida ou sugestão sobre o projeto, não hesite em entrar em contato!
+
+Divirta-se jogando o Robotron-2000! 🤖🕹️
